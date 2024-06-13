@@ -5,7 +5,7 @@
 Required Node version >= 18.17.0
 
 ```bash
-npm i && npm dev
+npm i && npm run dev
 ```
 
 ### Docker
